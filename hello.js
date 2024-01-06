@@ -4,7 +4,12 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!");                         //Step 1
+console.log(3)                                        //Step 5
+console.log(22+22)                                    //Step 5 bonus
+console.log("How do you do?  \n" + "I'm doing well")  //Step 7
+console.log("Quoth the Raven \"Nevermore\"")          //Step 8
+console.log("Exit program")                           //Step 9
 
 /*  
 Next, PLAY! 
